@@ -1,0 +1,106 @@
+{
+  "resgistro": [
+    {
+      "mobre_comleto": "",
+      "e-mail": "",
+      "usuario": "",
+      "contraseña": ""
+    }
+  ],
+
+  "Usuario": [
+    {
+      "usuario": "",
+      "contraseña": ""
+    }
+  ],
+
+  "recoratorio": [
+    {
+      "id": "",
+      "usuario": "",
+      "Lunes": "",
+      "Martes": "",
+      "Miércoles": "",
+      "Jueves": "",
+      "Viernes": "",
+      "Sábado": "",
+      "Domingo": ""
+    }
+  ],
+
+  "Ejercicio": [
+    {
+      "id": "1",
+      "nomejercicio": "Brazo fácil",
+      "descripcion": "",
+      "img": "",
+      "rutina": ""
+    },
+
+    {
+      "id": "2",
+      "nomejercicio": "Brazo Dificíl",
+      "descripcion": "Repeticiones X 7",
+      "img": "",
+      "rutina": ""
+    },
+
+    {
+      "id": "3",
+      "nomejercicio": "Abdomen fácil",
+      "descripcion": "",
+      "img": "",
+      "rutina": ""
+    },
+    {
+      "id": "4",
+      "nomejercicio": "Abdomen Dificíl",
+      "descripcion": "",
+      "img": "",
+      "rutina": ""
+    },
+    {
+      "id": "5",
+      "nomejercicio": "Pierna Fácil",
+      "descripcion": "",
+      "img": "",
+      "rutina": ""
+    },
+    {
+      "id": "6",
+      "nomejercicio": "Pierna Dificíl",
+      "descripcion": "",
+      "img": "",
+      "rutina": ""
+    },
+    {
+      "usuario": [
+        {
+          "id": 1,
+          "Nombre": "Sebastian",
+          "apellido": "Restrepo",
+          "nombre": "Sebas",
+          "username": "rsebas170@gmail.com",
+          "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+          "id": 2,
+          "Nombre": "Mateo",
+          "apellido": "Giraldo",
+          "nombre": "Teo",
+          "username": "mateogiral@gmail.com",
+          "password": "01cfcd4f6b8770febfb40cb906715822"
+        },
+        {
+          "id": 3,
+          "Nombre": "Juan",
+          "apellido": "Munera",
+          "nombre": "Munera",
+          "username": "jmuneradavid@gmail.com",
+          "password": "b0baee9d279d34fa1dfd71aadb908c3f"
+        }
+      ]
+    }
+  ]
+}
